@@ -1,0 +1,4 @@
+
+
+# 解码 Content-Encoding: br (Brotli) 的响应；
+brotli>=1.0
